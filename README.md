@@ -1,6 +1,6 @@
 # Remita Flutter Payment
 
-This is a package that helps you accept payment using [Remita Payment Gateway](https://www.remita.net/) in your flutter application.
+This is a flutter package that helps you accept payment in your application using [Remita Payment Gateway](https://www.remita.net/) in your flutter application.
 
 ![](assets/inline_screenshot.png)
 
